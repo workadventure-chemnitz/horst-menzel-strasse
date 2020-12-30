@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":34,
@@ -72,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/storage.googleapis.com\/workadventure-map\/wohnung\/flur.json#start-treppenhaus"
+                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/flur.json"
                 }],
          "type":"tilelayer",
          "visible":true,
