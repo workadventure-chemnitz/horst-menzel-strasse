@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/flur.json#start-treppenhaus"
+                 "value":"\/storage.googleapis.com\/workadventure-map\/wohnung\/flur.json#start-treppenhaus"
                 }],
          "type":"tilelayer",
          "visible":true,
