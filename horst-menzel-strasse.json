@@ -252,28 +252,9 @@
          "tilewidth":32
         }, 
         {
-<<<<<<< HEAD
          "columns":128,
          "firstgid":65,
-         "image":"Pokemon Tilsets\/jIswOw3.png",
-=======
-         "columns":60,
-         "firstgid":321,
-         "image":"PokemonTilsets\/Bausatz2.png",
-         "imageheight":3360,
-         "imagewidth":1920,
-         "margin":0,
-         "name":"Bausatz2",
-         "spacing":0,
-         "tilecount":6300,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":128,
-         "firstgid":6621,
          "image":"PokemonTilsets\/jIswOw3.png",
->>>>>>> fcb2ee87ee0ce6dd05c3e70eea94ac7f6213919a
          "imageheight":2048,
          "imagewidth":4096,
          "margin":0,
@@ -285,13 +266,8 @@
         }, 
         {
          "columns":8,
-<<<<<<< HEAD
          "firstgid":8257,
-         "image":"Pokemon Tilsets\/Tilset.png",
-=======
-         "firstgid":14813,
          "image":"PokemonTilsets\/Tilset.png",
->>>>>>> fcb2ee87ee0ce6dd05c3e70eea94ac7f6213919a
          "imageheight":20832,
          "imagewidth":256,
          "margin":0,
